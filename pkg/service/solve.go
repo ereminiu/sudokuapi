@@ -3,8 +3,8 @@ package service
 import (
 	"fmt"
 
-	"github.com/ereminiu/apitest/pkg/models"
-	"github.com/ereminiu/apitest/pkg/service/tools"
+	"github.com/ereminiu/sudokuapi/pkg/models"
+	"github.com/ereminiu/sudokuapi/pkg/service/tools"
 )
 
 var n int = 9

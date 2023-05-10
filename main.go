@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/ereminiu/apitest/pkg/handlers"
+	"github.com/ereminiu/sudokuapi/pkg/handlers"
 	"github.com/gin-gonic/gin"
 )
 

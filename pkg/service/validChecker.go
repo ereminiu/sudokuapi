@@ -1,8 +1,8 @@
 package service
 
 import (
-	"github.com/ereminiu/apitest/pkg/models"
-	"github.com/ereminiu/apitest/pkg/service/tools"
+	"github.com/ereminiu/sudokuapi/pkg/models"
+	"github.com/ereminiu/sudokuapi/pkg/service/tools"
 )
 
 // 1 - it's correct

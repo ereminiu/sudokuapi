@@ -4,8 +4,8 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/ereminiu/apitest/pkg/models"
-	"github.com/ereminiu/apitest/pkg/service"
+	"github.com/ereminiu/sudokuapi/pkg/models"
+	"github.com/ereminiu/sudokuapi/pkg/service"
 	"github.com/gin-gonic/gin"
 )
 
